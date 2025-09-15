@@ -1,0 +1,80 @@
+[
+  {
+    "_id": 4742607,
+    "name": "Casa de Villela",
+    "property_type": "Farm stay",
+    "beds": 16,
+    "bathrooms": 9,
+    "amenities": ["Wide doorway", "Waterfront"],
+    "price": 5000,
+    "reviews": [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+    "review_scores": {"cleanliness": 10, "location": 9},
+    "address": {"country": "Portugal"},
+    "host": {"host_id": 101, "host_name": "Maria", "host_listings_count": 12, "host_response_rate": 85}
+  },
+  {
+    "_id": 199999097,
+    "name": "House close to station & direct to opera house....",
+    "property_type": "House",
+    "beds": 10,
+    "bathrooms": 3,
+    "amenities": ["Wide doorway"],
+    "price": 3000,
+    "reviews": [{}, {}, {}],
+    "review_scores": {"cleanliness": 9, "location": 9},
+    "address": {"country": "France"},
+    "host": {"host_id": 102, "host_name": "John", "host_listings_count": 5, "host_response_rate": 92}
+  },
+  {
+    "_id": 5370837,
+    "name": "Ocean/City View*Van Included*Hot Tub & 3 Bath*",
+    "property_type": "House",
+    "beds": 10,
+    "bathrooms": 4,
+    "amenities": ["Wide entryway"],
+    "price": 4000,
+    "reviews": [{}, {}, {}, {}],
+    "review_scores": {"cleanliness": 10, "location": 10},
+    "address": {"country": "Portugal"},
+    "host": {"host_id": 103, "host_name": "Alice", "host_listings_count": 7, "host_response_rate": 88}
+  },
+  {
+    "_id": 32040085,
+    "name": "Iparal Apartment by JC",
+    "property_type": "Apartment",
+    "beds": 10,
+    "bathrooms": 2,
+    "amenities": ["Wide doorway"],
+    "price": 2000,
+    "reviews": [{}, {}, {}, {}],
+    "review_scores": {"cleanliness": 8, "location": 9},
+    "address": {"country": "Portugal"},
+    "host": {"host_id": 104, "host_name": "Carlos", "host_listings_count": 3, "host_response_rate": 95}
+  },
+  {
+    "_id": 29045459,
+    "name": "DOWNTOWN VIP MONTREAL, HIGH END DECOR, GOOD VALUE..",
+    "property_type": "Apartment",
+    "beds": 9,
+    "bathrooms": 2,
+    "amenities": ["Waterfront"],
+    "price": 3500,
+    "reviews": [{}, {}, {}, {}, {}],
+    "review_scores": {"cleanliness": 9, "location": 9},
+    "address": {"country": "Canada"},
+    "host": {"host_id": 105, "host_name": "Sophie", "host_listings_count": 4, "host_response_rate": 80}
+  },
+  {
+    "_id": 22775354,
+    "name": "İstanbul un kalbi sıklı. Center of İstanbul sıklı",
+    "property_type": "Apartment",
+    "beds": 3,
+    "bathrooms": 2,
+    "amenities": ["Pool"],
+    "price": 48482,
+    "reviews": [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+    "review_scores": {"cleanliness": 10, "location": 9},
+    "address": {"country": "Turkey"},
+    "host": {"host_id": 106, "host_name": "Mehmet", "host_listings_count": 6, "host_response_rate": 75}
+  }
+]
