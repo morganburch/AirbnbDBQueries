@@ -1,3 +1,9 @@
+/*
+This JSON file is a representative sample of the Airbnb dataset used in analysis. It 
+demonstrates the structure of the data and allows readers to understand how the queries 
+operate. No live database connection is required to review this work.
+*/
+
 [
   {
     "_id": 4742607,
