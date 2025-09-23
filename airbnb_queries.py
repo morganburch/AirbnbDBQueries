@@ -114,7 +114,7 @@ for entry in query5:
 print("***********************************\n")
 
 # -----------------------------
-# QUERY 6: Top Hosts by Listings (<90% Response Rate)
+# QUERY 6: Hosts With Most Properties and <90% Response Rate
 # -----------------------------
 proj6 = {
     "host.host_id": 1,
